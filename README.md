@@ -2,7 +2,7 @@
 
 ## Download and Setup for `node_modules`
 
-See more in `package.json'
+See more in `package.json`
 
 ### Dependencies
 
