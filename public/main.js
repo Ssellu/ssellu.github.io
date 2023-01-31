@@ -206,7 +206,6 @@ import browser from "./browser.min.js";
 
   // Openers.
   $menu_openers.each(function () {
-    console.log($menu_openers);
     var $this = $(this);
     $this.on("click", function (event) {
       // Prevent default.
